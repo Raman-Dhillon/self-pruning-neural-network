@@ -47,13 +47,15 @@ L_total = L_CE + λ · Sparsity Loss
 
 ## 📈 Sparsity vs Accuracy
 
-![plot](results/accuracy_vs_sparsity.png)
-
----
+<p align="center">
+  <img src="sparsity vs accuracy.png" width="500"/>
+</p>
 
 ## 📉 Gate Distribution
 
-![plot](results/gate_distribution.png)
+<p align="center">
+  <img src="gate value distrubution.png" width="500"/>
+</p>
 
 ---
 
